@@ -1,3 +1,5 @@
+Bu proje, önemli tarihi olaylar ve bireylerin bilgilerini kaydetmek için geliştirilmiş bir veri tabanı sistemidir. Python kullanılarak oluşturulan bu sistemde, kullanıcılar tarihi olayları ve kişileri ekleyebilir, bu bilgileri güncelleyebilir ve arayüz üzerinden görüntüleyebilirler. Sistem, tarih meraklıları ve araştırmacılar için kullanışlı bir araç olarak tasarlanmıştır, böylece önemli tarihsel verileri merkezi bir yerden yönetebilirler.
+
 ![Tarihçi - Tarihi Olaylar Veritabanı 6 05 2024 16_08_32](https://github.com/erenssimsek/Tarih-Verih-Sistemi/assets/93097999/a6bf03db-29ac-4cd9-9bbc-5e09ce3ed422)
 
 ![Tarihçi - Tarihi Olaylar Veritabanı 6 05 2024 16_09_57](https://github.com/erenssimsek/Tarih-Verih-Sistemi/assets/93097999/67b15cff-0fb8-459d-b08f-1fb0466997f7)
